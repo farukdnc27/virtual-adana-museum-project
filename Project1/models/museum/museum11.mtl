@@ -1,0 +1,93 @@
+# Blender 4.4.3 MTL File: 'None'
+# www.blender.org
+
+newmtl /Color_BLK_Floor
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 1.000000
+Pm 1.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd Marble014_1K-JPG_Color_10.jpeg
+
+newmtl /Tex_Granite
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd weathered-brick-wall-texture2.png
+map_Pr Marble014_1K-JPG_Roughness_11@channels=G.png
+
+newmtl /Tex_Granite.001
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd laminate_floor_02_diff_4k.jpg
+map_Pr Marble014_1K-JPG_Roughness_11@channels=G.png
+
+newmtl /Tex_Tiles
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd stone.png
+map_Pr Tiles074_2K-JPG_Roughness_14@channels=G.png
+
+newmtl /Tex_concrete
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd blank-concrete-white-wall-texture-background.jpg
+map_Pr Concrete032_2K-JPG_Roughness_8@channels=G.png
+
+newmtl /Tex_wall
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd weathered-brick-wall-texture2.png
+map_Pr Marble014_1K-JPG_Roughness_11@channels=G.png
+
+newmtl Tex_Marble_2
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+map_Kd stone.png
+map_Pr Concrete032_2K-JPG_Roughness_8@channels=G.png
